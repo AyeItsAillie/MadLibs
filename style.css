@@ -1,0 +1,19 @@
+body {
+font-family: Arial, sans-serif;
+max-width: 600px;
+margin: 0 auto;
+padding: 20px;
+}
+.error {
+color: red;
+}
+.success {
+color: green;
+}
+form div {
+margin: 10px 0;
+}
+label {
+display: inline-block;
+width: 120px;
+}
