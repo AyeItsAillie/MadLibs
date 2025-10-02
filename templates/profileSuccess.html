@@ -1,0 +1,17 @@
+<!-- page that displays results once you've successfully
+entered them -->
+{% extends "base.html" %}
+{% block content %}
+<h2 class="success">Profile Saved Successfully!</h2>
+
+<div>
+<h3>Your Profile Information:</h3>
+<p><strong>Name:</strong> {{ name }}</p>
+<p><strong>Email:</strong> {{ email }}</p>
+<p><strong>Total Guests:</strong> {{ quan }}</p>
+<p><strong>Comments or Issues:</strong> {{ comments if comments else "Not provided" }}</p>
+<p><strong>Relationship to me:</strong> {{ rel }}</p>
+<p><strong>Accommodations Required:</strong> {{ "Yes" if accommodations else "No" }}</p>
+</div>
+<a href="{{ url_for('profile') }}">Create Another Profile</a>
+{% endblock %}
