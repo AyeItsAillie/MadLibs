@@ -6,6 +6,10 @@ app.secret_key = 'top-secret'
 def index():
     return redirect(url_for('profile'))
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
 @app.route('/profile', methods=['GET', 'POST'])
 
 def profile():
