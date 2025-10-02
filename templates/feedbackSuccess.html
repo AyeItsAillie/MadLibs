@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<h2 class="success">Thank You for Your Feedback!</h2>
+<p><strong>Rating:</strong> {{ rating }}</p>
+<p><strong>Your feedback:</strong> {{ feedback if feedback else "No
+comments provided" }}</p>
+<a href="{{ url_for('feedback') }}">Submit More Feedback</a>
+{% endblock %}
