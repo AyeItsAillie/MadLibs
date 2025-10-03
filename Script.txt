@@ -1,4 +1,26 @@
-Ahoy [NAME]! Welcome abord the [ADJECTIVE] [NOUN]! Ye be me new [ADJECTIVE] Buccaneer. If ye see a [ADJECTIVE] Brit scum make sure to wave yer [ADJECTIVE] sword around like a [ADJECTIVE] [NOUN]. 
-Ye'll sure not to loose yer [BODYPART], me [BODYPART] been missing ever since I fought a [NOUN], but me never needed that [ADJECTIVE] crap anyway. 
-Avast ye BUCKOS! All [BODYPART] on deck! We seadogs be sailing to [PLACE] fer [PLURAL NOUN]. Keep yer jibs open for any [PLURAL NOUN] that be at sea.
-Ye'll fit right in with us ye [ADJECTIVE] [NOUN]! It would be a shame to leave you in Davy [NAME]'s [NOUN].
+Ahoy [NAME1]! Welcome abord the [ADJECTIVE1] [NOUN1]! Ye be me new [ADJECTIVE2] Buccaneer. If ye see a [ADJECTIVE3] Brit scum make sure to wave yer [ADJECTIVE4] sword around like a [ADJECTIVE5] [NOUN2]. 
+Ye'll sure not to loose yer [BODYPART1], me [BODYPART2] been missing ever since I fought a [NOUN3], but me never needed that [ADJECTIVE6] crap anyway. 
+Avast ye BUCKOS! All [BODYPART3] on deck! We seadogs be sailing to [PLACE] fer [PLURAL NOUN1]. Keep yer jibs open for any [PLURAL NOUN2] that be at sea.
+Ye'll fit right in with us ye [ADJECTIVE7] [NOUN4]! It would be a shame to leave you in Davy [NAME2]'s [NOUN5].
+
+[NAME1]
+[ADJECTIVE1]
+[NOUN1]
+[ADJECTIVE2]
+[ADJECTIVE3]
+[ADJECTIVE4]
+[ADJECTIVE5]
+[NOUN2]
+[BODYPART1]
+[BODYPART2]
+[NOUN3]
+[ADJECTIVE6]
+[BODYPART3]
+[PLACE1]
+[PLURAL_NOUN1]
+[PLURAL_NOUN2]
+[ADJECTIVE7]
+[NOUN4]
+[NAME2]
+[NOUN5]
+
